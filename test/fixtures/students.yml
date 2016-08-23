@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  gpa: 1.5
+  level: 1
+  address: MyText
+
+two:
+  name: MyString
+  gpa: 1.5
+  level: 1
+  address: MyText
